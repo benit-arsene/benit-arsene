@@ -7,12 +7,6 @@
 
 ---
 
-### 📈 GitHub Stats
-![YOUR_NAME's GitHub Stats](https://github-readme-stats.vercel.app/api?username=benit-arsene&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benit-arsene&layout=compact&theme=dark)
-
----
-
 ### 💻 Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,cpp,figma,mongodb,nodejs,postman,react,tailwind)](https://skillicons.dev)
 
