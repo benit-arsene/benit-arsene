@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Information+Systems+Student;Full-Stack+%26+Mobile+Dev;Designing+%26+Building+Cool+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Benit+Arsene+LODDYRB;Full-Stack+%26+Mobile+Dev;Designing+%26+Building+Cool+Apps" alt="Typing SVG" />
 </div>
 
 ### 📈 GitHub Commits Graph
