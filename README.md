@@ -18,6 +18,10 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/benit-arsene/benit-arsene/output/github-contribution-grid-snake-dark.svg)
+
 ### 📬 Connect with Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/___b4nit___)
