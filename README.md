@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**benit-arsene/benit-arsene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📈 GitHub Commits Graph
+[![Ashutosh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=benit-arsene&theme=github-compact)](https://github.com/benit-arsene)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+![YOUR_NAME's GitHub Stats](https://github-readme-stats.vercel.app/api?username=benit-arsene&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benit-arsene&layout=compact&theme=dark)
+
+---
+
+### 💻 Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,cpp,figma,mongodb,nodejs,postman,react,tailwind)](https://skillicons.dev)
+
+---
+
+### 📬 Connect with Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/___b4nit___)
